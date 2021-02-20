@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "APPGULAR"
+    }
+  },
+  "defaultProject": "APPGULAR",
+  "cli": {
+    "analytics": "84c91d48-ab16-4a94-81ff-05f08c022180"
+  }
 }
